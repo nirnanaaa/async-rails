@@ -19,10 +19,10 @@ Gem::Specification.new do |s|
     Gemfile.lock
     README.md
     Rakefile
-    async-rails.gemspec
-    lib/async-rails.rb
+    asyncjs-rails.gemspec
     lib/async/rails/bootstrap.rb
     lib/async/rails/engine.rb
+    lib/asyncjs-rails.rb
     vendor/assets/javascripts/async.js
   ]
   # = MANIFEST =
