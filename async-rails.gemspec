@@ -21,12 +21,10 @@ Gem::Specification.new do |s|
   s.add_dependency             'railties',   '>= 3.1'
   s.add_dependency             'actionpack', '>= 3.1'
 
-  s.add_runtime_dependency 'rails', '>= 3.1'
-  s.add_runtime_dependency 'execjs'
+  s.add_runtime_dependency     'rails',      '>= 3.1'
+  s.add_runtime_dependency     'execjs'
 
   s.add_development_dependency 'therubyracer'
-  s.add_development_dependency 'rspec'
   s.add_development_dependency 'rake'
-
 
 end
