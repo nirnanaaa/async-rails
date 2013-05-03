@@ -7,7 +7,7 @@ async-rails is a library that integrates Async for the Rails >= 3.1 Asset Pipeli
 
 ## Plugin versions
 * Async 0.2.5 on MASTER branch
-* Async HEAD on CONTINUOUS branch
+* Async HEAD on CONTINUOUS branch (updated hourly)
 
 ## Installing Gem
 
