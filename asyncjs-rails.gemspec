@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.description= "async-rails project integrates Async JS for Rails 3/4 Asset Pipeline"
   s.author = 'Florian Kasper'
   s.email = 'mosny@zyg.li'
-  s.homepage = 'http://asyncrails.zyg.li'
+  s.homepage = 'https://github.com/nirnanaaa/async-rails'
   s.license = 'MIT'
   s.platform = Gem::Platform::RUBY
   s.required_ruby_version = '>=1.9.3'
