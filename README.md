@@ -25,7 +25,9 @@ gem "async-rails", github: "nirnanaaa/async-rails", branch: "continuous"
 
 Require async in your app/assets/application.js file.
 
-  //= require async
+```ruby
+//= require async
+```
 
 ## Thanks
 Thanks to [Caolan McMahon](https://github.com/caolan) for writing the awesome async plugin.
