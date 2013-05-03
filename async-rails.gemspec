@@ -1,7 +1,9 @@
 Gem::Specification.new do |s|
   s.name = "async-rails"
-  s.rubyforge_project = "async-rails"
+  s.rubyforge_project = s.name
+
   s.version = '0.0.1'
+  
   s.summary = "Async JS toolkit for Rails 3/4 Asset Pipeline"
   s.description= "async-rails project integrates Async JS for Rails 3/4 Asset Pipeline"
   s.author = 'Florian Kasper'
@@ -13,6 +15,15 @@ Gem::Specification.new do |s|
 
   # = MANIFEST =
   s.files = %w[
+    Gemfile
+    Gemfile.lock
+    README.md
+    Rakefile
+    async-rails.gemspec
+    lib/async-rails.rb
+    lib/async/rails/bootstrap.rb
+    lib/async/rails/engine.rb
+    vendor/assets/javascripts/async.js
   ]
   # = MANIFEST =
 
