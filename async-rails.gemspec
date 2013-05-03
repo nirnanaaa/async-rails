@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = "async-rails"
+  s.name = "asyncjs-rails"
   s.rubyforge_project = "asyncjs-rails"
 
   s.version = '0.0.2'
