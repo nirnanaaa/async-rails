@@ -1,0 +1,1 @@
+require "async/rails/engine"
