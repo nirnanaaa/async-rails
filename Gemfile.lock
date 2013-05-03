@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    async-rails (0.0.1)
+    asyncjs-rails (0.0.2)
       actionpack (>= 3.1)
       execjs
       rails (>= 3.1)
@@ -124,7 +124,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  async-rails!
+  asyncjs-rails!
   coveralls
   mocha
   rake
