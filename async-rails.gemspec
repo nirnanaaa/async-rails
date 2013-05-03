@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name = "async-rails"
   s.rubyforge_project = s.name
 
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   
   s.summary = "Async JS toolkit for Rails 3/4 Asset Pipeline"
   s.description= "async-rails project integrates Async JS for Rails 3/4 Asset Pipeline"
